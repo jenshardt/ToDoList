@@ -27,6 +27,7 @@ My unorganized list of things to look after
 
 ## Tutorials to do
 
+- https://www.baeldung.com/java-working-with-python
 - https://www.baeldung.com/java-ai
 - https://jax.de/blog/datenklassen-in-java-einfuehrung-in-java-records/
 - https://spring.io/guides/gs/reactive-rest-service/
