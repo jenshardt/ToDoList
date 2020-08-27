@@ -14,8 +14,11 @@ My unorganized list of things to look after
 - https://github.com/axa-group/Parsr
 - https://www.agile-meets-architecture.com/
 - https://de.fakenamegenerator.com/
+- https://jena.apache.org/
+- https://codeberg.org/
+- https://www.access-for-all.ch/ch/pdf-werkstatt/pdf-accessibility-checker-pac/download-pac-3.html
 
-## Blogs / etc. to rad
+## Blogs / etc. to read
 
 - https://github.com/feststelltaste/awesome-software-analytics
 - https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/
