@@ -3,7 +3,8 @@ My unorganized list of things to look after
 
 # In Progress
 
-- https://dzone.com/articles/ddd-spring-boot-multi-module-maven-project
+- https://www.baeldung.com/java-working-with-python
+- https://spring.io/guides/gs/reactive-rest-service/
 
 ## Pages to check out
 
@@ -30,10 +31,8 @@ My unorganized list of things to look after
 
 ## Tutorials to do
 
-- https://www.baeldung.com/java-working-with-python
 - https://www.baeldung.com/java-ai
 - https://jax.de/blog/datenklassen-in-java-einfuehrung-in-java-records/
-- https://spring.io/guides/gs/reactive-rest-service/
 - https://dzone.com/articles/90-new-features-and-apis-in-jdk-11
 - https://www.baeldung.com/java-record-keyword
 - https://vaadin.com/learn/tutorials/reactive-chat-app
