@@ -8,6 +8,12 @@ My unorganized list of things to look after
 
 ## Pages to check out
 
+- https://www.baeldung.com/spring-boot-crud-thymeleaf
+- https://dataflow.spring.io/docs/installation/local/
+- https://www.baeldung.com/spring-boot-customize-jackson-objectmapper
+- https://github.com/remotemobprogramming/
+- https://free-for.dev/#/
+- https://github.com/BNYMellon/CodeKatas
 - https://www.mkdocs.org/
 - https://c4model.com/
 - https://www.open-hospital.org/en/
