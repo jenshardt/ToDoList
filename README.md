@@ -6,6 +6,8 @@ My unorganized list of things to look after
 - https://www.baeldung.com/java-working-with-python
 - https://spring.io/guides/gs/reactive-rest-service/
 - Kumuluz EE
+- https://www.mkdocs.org/
+- https://c4model.com/
 
 ## Pages to check out
 
@@ -15,8 +17,7 @@ My unorganized list of things to look after
 - https://github.com/remotemobprogramming/
 - https://free-for.dev/#/
 - https://github.com/BNYMellon/CodeKatas
-- https://www.mkdocs.org/
-- https://c4model.com/
+
 - https://www.open-hospital.org/en/
 - https://gitlab.com/oeffi
 - https://github.com/axa-group/Parsr
@@ -34,7 +35,6 @@ My unorganized list of things to look after
 - https://refactoring.com/catalog/decomposeConditional.html
 - https://martinfowler.com/articles/agile-threat-modelling.html
 - https://www.innoq.com/de/articles/2020/07/domain-driven-design-in-the-large/
-
 
 ## Tutorials to do
 
